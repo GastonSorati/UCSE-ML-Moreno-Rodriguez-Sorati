@@ -33,7 +33,8 @@ jupyter-console==6.1.0
 jupyter-core==4.6.3
 Keras==2.3.1
 Keras-Applications==1.0.8
-Keras-Preprocessing==1.1.0
+Keras-Preprocessing==1.1.
+keras-metrics == 1.1.0
 kiwisolver==1.2.0
 Markdown==3.2.1
 MarkupSafe==1.1.1
